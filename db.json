@@ -1,0 +1,136 @@
+{
+  "restaurant": [
+    {
+      "nombrePlato": "milanesa",
+      "precioPlato": "100",
+      "categoria": "cortes",
+      "id": 7
+    },
+    {
+      "nombrePlato": "milanesa",
+      "precioPlato": "100",
+      "categoria": "cortes",
+      "id": 8
+    },
+    {
+      "nombrePlato": "asado",
+      "precioPlato": "500",
+      "categoria": "cortes",
+      "id": 9
+    },
+    {
+      "nombrePlato": "asado",
+      "precioPlato": "500",
+      "categoria": "cortes",
+      "id": 10
+    },
+    {
+      "nombrePlato": "asado",
+      "precioPlato": "500",
+      "categoria": "cortes",
+      "id": 11
+    },
+    {
+      "nombrePlato": "asado",
+      "precioPlato": "500",
+      "categoria": "cortes",
+      "id": 12
+    },
+    {
+      "nombrePlato": "asado",
+      "precioPlato": "500",
+      "categoria": "cortes",
+      "id": 13
+    },
+    {
+      "nombrePlato": "asado",
+      "precioPlato": "500",
+      "categoria": "cortes",
+      "id": 14
+    },
+    {
+      "nombrePlato": "asado",
+      "precioPlato": "500",
+      "categoria": "cortes",
+      "id": 15
+    },
+    {
+      "nombrePlato": "asado",
+      "precioPlato": "500",
+      "categoria": "cortes",
+      "id": 16
+    },
+    {
+      "nombrePlato": "asado",
+      "precioPlato": "500",
+      "categoria": "cortes",
+      "id": 17
+    },
+    {
+      "nombrePlato": "asado  mas barato",
+      "precioPlato": "200",
+      "categoria": "cortes",
+      "id": 18
+    },
+    {
+      "nombrePlato": "asado  mas barato",
+      "precioPlato": "200",
+      "categoria": "cortes",
+      "id": 19
+    },
+    {
+      "nombrePlato": "asado  mas barato",
+      "precioPlato": "200",
+      "categoria": "cortes",
+      "id": 20
+    },
+    {
+      "nombrePlato": "tarta",
+      "precioPlato": "50",
+      "categoria": "ensalada",
+      "id": 21
+    },
+    {
+      "nombrePlato": "asd",
+      "precioPlato": "31",
+      "categoria": "postre",
+      "id": 22
+    },
+    {
+      "nombrePlato": "asd",
+      "precioPlato": "123",
+      "categoria": "bebida",
+      "id": 23
+    },
+    {
+      "nombrePlato": "asd",
+      "precioPlato": "3211",
+      "categoria": "bebida",
+      "id": 24
+    },
+    {
+      "nombrePlato": "asda",
+      "precioPlato": "123",
+      "categoria": "bebida",
+      "id": 25
+    },
+    {
+      "nombrePlato": "tarta",
+      "precioPlato": "50",
+      "categoria": "cortes",
+      "id": 26
+    },
+    {
+      "nombrePlato": "tarta",
+      "precioPlato": "15",
+      "categoria": "bebida",
+      "id": 27
+    },
+    {
+      "nombrePlato": "flan",
+      "precioPlato": "45",
+      "categoria": "postre",
+      "id": 28
+    }
+  ]
+}
